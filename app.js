@@ -125,7 +125,7 @@ window.onload = async () => {
         title,
         info,
         settings,
-        fontFamily: `'Segoe UI', Tahoma, Geneva, Verdana, sans-serif`,
+        fontFamily: `'Inter', sans-serif`,
         defaultColor: 'darkslategray;',
         defaultBorder: 'solid 1px lightgray',
         defaultRoute,
