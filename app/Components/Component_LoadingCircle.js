@@ -1,4 +1,4 @@
-/** RHC-C G-6 SharePoint Team */
+/** (C) 2021 Stephen Matheis */
 
 /** @link https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_loader */
 

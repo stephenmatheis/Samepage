@@ -1,4 +1,4 @@
-/* RHC-C SharePoint Team | PA&E Project Request */
+/** (C) 2021 Stephen Matheis */
 
 /** Components */
 import Component_Title from '../Components/Component_Title.js'

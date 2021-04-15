@@ -1,4 +1,4 @@
-/** RHC-C G-6 SharePoint Team */
+/** (C) 2021 Stephen Matheis */
 
 /** Components */
 import Component_Comments from '../Components/Component_Comments.js'

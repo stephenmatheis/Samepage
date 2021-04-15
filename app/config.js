@@ -1,15 +1,4 @@
-/** RHC-C G-6 SharePoint Team */
-
-/** Libraries */
-import './Libraries/jQuery/jquery-3.4.1.js'
-import './Libraries/Bootstrap/js/bootstrap.bundle.min.js'
-import './Libraries/DataTables/datatables.js'
-import './Libraries/DataTables/js/dataTables.bootstrap4.js'
-import './Libraries/DataTables/Buttons-1.7.0/js/dataTables.buttons.js'
-import './Libraries/Chartsjs/Chart.min.js'
-
-/** Actions */
-import Action_LoadCSS from './Actions/Action_LoadCSS.js'
+/** (C) 2021 Stephen Matheis */
 
 /** Views */
 import View_Dashboard from './Views/View_Dashboard.js'
@@ -35,13 +24,7 @@ export default function Config() {
         },
         userFields: 'Id,Account,LastName,FirstName,MiddleName,Email,Command,Role',
         onLoad() {
-            Action_LoadCSS([
-                'Libraries/DataTables/css/dataTables.bootstrap4.min.css',
-                'Libraries/DataTables/Buttons-1.7.0/css/buttons.dataTables.css',
-                'Libraries/Bootstrap/css/bootstrap.min.css',
-                'Libraries/fullcalendar/main.css',
-                'Libraries/Chartsjs/Chart.min.css'
-            ]);
+
         },
         routes: [
             {

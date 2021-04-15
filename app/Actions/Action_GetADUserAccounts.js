@@ -1,4 +1,4 @@
-/** RHC-C G-6 SharePoint Team */
+/** (C) 2021 Stephen Matheis */
 
 /** Actions */
 import Action_GetRequestDigest from './Action_GetRequestDigest.js'

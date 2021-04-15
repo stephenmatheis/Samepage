@@ -1,17 +1,12 @@
 /** RHC-C SharePoint Team */
 
-/* Components */
+/** Components */
 import Component_Title from '../Components/Component_Title.js'
 import Component_Container from '../Components/Component_Container.js'
 
 /** View Parts */
 import ViewPart_AccountInfo from '../ViewParts/ViewPart_AccountInfo.js'
 
-/**
- * View for Settings.
- * @async
- * @module Views/ViewSettings
- */
 export default async function View_Settings() {
     const parent = App.store.get('maincontainer');
 

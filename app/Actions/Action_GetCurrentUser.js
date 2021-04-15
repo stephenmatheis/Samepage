@@ -1,4 +1,4 @@
-/* RHC-C SharePoint Team | PA&E Project Request */
+/** (C) 2021 Stephen Matheis */
 
 export default async function Get_CurrentUser(userFields) {
     return {

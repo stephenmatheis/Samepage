@@ -1,4 +1,4 @@
-/* RHC-C SharePoint Team | Individual Critical Tasks List (ICTL) */
+/** (C) 2021 Stephen Matheis */
 
 /** Actions */
 import Action_Get from '../Actions/Action_Get.js'

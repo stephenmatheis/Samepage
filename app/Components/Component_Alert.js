@@ -1,4 +1,4 @@
-/* RHC-C SharePoint Team */
+/** (C) 2021 Stephen Matheis */
 
 import Core_Component from '../Core/Core_Component.js'
 

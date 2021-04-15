@@ -1,4 +1,4 @@
-/* RHC-C SharePoint Team | Individual Critical Tasks List (ICTL) */
+/** (C) 2021 Stephen Matheis */
 
 /* Components */
 import Core_Component from '../Core/Core_Component.js'
