@@ -106,6 +106,7 @@ window.onload = async () => {
     /** Get config.js */
     const {
         title,
+        fontFamily
         primaryColor,
         secondaryColor,
         gradientColor,
@@ -125,7 +126,7 @@ window.onload = async () => {
         title,
         info,
         settings,
-        fontFamily: `'Inter', sans-serif`,
+        fontFamily: fontFamily || `-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"`,
         defaultColor: 'darkslategray;',
         defaultBorder: 'solid 1px lightgray',
         defaultRoute,
