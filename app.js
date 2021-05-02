@@ -106,7 +106,7 @@ window.onload = async () => {
     /** Get config.js */
     const {
         title,
-        fontFamily
+        fontFamily,
         primaryColor,
         secondaryColor,
         gradientColor,
