@@ -17,6 +17,7 @@ export default function Component_MainContainer(param) {
                 padding: 20px 50px;
                 flex: 1;
                 height: 100vh;
+                height: -webkit-fill-available;
                 overflow: overlay;
             }
 
