@@ -23,6 +23,7 @@ export default function Component_AppContainer() {
                 margin: 0px;
                 box-sizing: border-box;
                 background: ${App.secondaryColor};
+                overflow: hidden;
             }
             
             body::-webkit-scrollbar { 
