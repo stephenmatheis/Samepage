@@ -34,6 +34,7 @@ export default function Component_SideBar(param) {
                 flex-direction: column;
                 justify-content: flex-start;
                 height: 100vh;
+                height: -webkit-fill-available;
                 background: ${background || App.primaryColor};
                 border-right: ${borderRight || 'none'};
             }
